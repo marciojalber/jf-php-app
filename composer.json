@@ -1,7 +1,7 @@
 {
     "name": "jf",
-    "description": "Framework para criar aplicações web simples, prático e robusto",
-    "homepage": "https://github.com/marciojalber/jf-php-framework",
+    "description": "App feito com JF PHP Framework",
+    "homepage": "https://github.com/marciojalber/jf-php-app",
     "version": "dev",
     "minimum-stability": "dev",
     "license": "MIT",
@@ -19,6 +19,7 @@
         "email": "marciojalber@gmail.com"
     },
     "require": {
-        "php": ">=7.0"
+        "php": ">=7.0",
+        "marciojalber/jf-php-framework": "*"
     }
 }
